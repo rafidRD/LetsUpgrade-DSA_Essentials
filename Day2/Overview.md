@@ -31,7 +31,7 @@
 
 * **Ignore Constant Values or take it as 1**<br/>
 * **If a value will be taken from input, like from n. It's linear.**<br/>
-* **When there will 2 n/input loops be present.Then it's quadratic. Ex:[Link](https://www.youtube.com/watch?v=Z34vv48ts2g&t=2146s)**<br/>
+* **When there will 2 n/input loops be present.Then it's quadratic. Ex: [Link](https://www.youtube.com/watch?v=Z34vv48ts2g&t=2146s)**<br/>
 
 * **In Logarithmic Time Complexity Log base is 2. Because Binary, everything in Computer Science is 1 & 0. Ex: T(n) -> O(log2 n) | [Link](https://www.youtube.com/watch?v=Z34vv48ts2g&t=2439s)**<br/>
 * **Exponential**
