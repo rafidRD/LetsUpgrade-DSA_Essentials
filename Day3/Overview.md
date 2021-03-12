@@ -175,8 +175,9 @@ Output: Method
 
 ### **Linked list**
 
-
   * Collection of nodes in which each node stores a data and has a link or reference to the next node.
+
+![Head Data List](https://t-images.imgix.net/https%3A%2F%2Flh3.googleusercontent.com%2FeHKRRHT3ME1XKZ0jzHu0PDPhBLNs9E7ZCITAt_DdAeGuDRfh1sLuffj55NT_nRUOet1AZCga3_wm6gK2naHvuIW8auMBfFkNk9B-cpudKzCbchSiCQVJop2u0ht_OmR-xHjKaCxD?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=9af5a5d11049b3b69c244282690c58c4)
 
 *Example of a node:-*
 
